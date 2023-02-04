@@ -1,2 +1,7 @@
-# Problem-Solutions-
-In this repository, I will give solutions of different coding questions of different coding platforms.
+# ADVANCED DSA
+In this repository, I will Provide all the Advanced DSA implementation,
+like Tree, Trie, Heap tree based implementation and most important thing is Graph.
+
+
+
+
